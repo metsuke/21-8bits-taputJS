@@ -1,3 +1,6 @@
 [submodule "modules/third-8bit-taptools-taput"]
 	path = modules/third-8bit-taptools-taput
 	url = https://github.com/metsuke/third-8bit-taptools-taput
+[submodule "modules/emscripten"]
+	path = modules/emscripten
+	url = https://github.com/emscripten-core/emscripten
