@@ -4,3 +4,6 @@
 [submodule "modules/emscripten"]
 	path = modules/emscripten
 	url = https://github.com/emscripten-core/emscripten
+[submodule "modules/llvm-project"]
+	path = modules/llvm-project
+	url = https://github.com/llvm/llvm-project
